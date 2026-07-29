@@ -56,8 +56,8 @@ I am a **Full-Stack Developer** focused on building useful, maintainable, and vi
 
 <div align="center">
 
-<a href="https://github.com/TharikMusthak/hint">
-  <img width="48%" src="./assets/hint-technologies.svg" alt="Hint Technologies project" />
+<a href="https://hinttechnologies.com">
+  <img width="48%" src="./assets/hint-technologies.svg" alt="Hint Technologies live website" />
 </a>
 <a href="https://github.com/TharikMusthak/IT3DWebsite">
   <img width="48%" src="./assets/it3d-website.svg" alt="IT3D Website project" />
