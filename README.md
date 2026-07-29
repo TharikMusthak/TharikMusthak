@@ -57,27 +57,29 @@ I am a **Full-Stack Developer** focused on building useful, maintainable, and vi
 <div align="center">
 
 <a href="https://github.com/TharikMusthak/hint">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api/pin/?username=TharikMusthak&repo=hint&hide_border=true&title_color=0F766E&text_color=64748B&bg_color=00000000&icon_color=14B8A6" alt="Hint Technologies repository" />
+  <img width="48%" src="./assets/hint-technologies.svg" alt="Hint Technologies project" />
 </a>
 <a href="https://github.com/TharikMusthak/IT3DWebsite">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api/pin/?username=TharikMusthak&repo=IT3DWebsite&hide_border=true&title_color=0F766E&text_color=64748B&bg_color=00000000&icon_color=14B8A6" alt="IT 3D Website repository" />
+  <img width="48%" src="./assets/it3d-website.svg" alt="IT3D Website project" />
 </a>
+
+<br />
+
 <a href="https://github.com/TharikMusthak/Bike_Service_Application_Tharik">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api/pin/?username=TharikMusthak&repo=Bike_Service_Application_Tharik&hide_border=true&title_color=0F766E&text_color=64748B&bg_color=00000000&icon_color=14B8A6" alt="Bike Service Application repository" />
+  <img width="48%" src="./assets/bike-service.svg" alt="Bike Service Application project" />
 </a>
 
 </div>
 
-## 📊 GitHub Activity
+## ⚡ Developer Snapshot
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=TharikMusthak&show_icons=true&hide_border=true&rank_icon=github&title_color=0F766E&icon_color=14B8A6&text_color=64748B&bg_color=00000000" alt="Tharik Musthak's GitHub statistics" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TharikMusthak&layout=compact&hide_border=true&title_color=0F766E&text_color=64748B&bg_color=00000000" alt="Most used languages" />
+<img width="100%" src="./assets/developer-snapshot.svg" alt="Tharik Musthak developer snapshot" />
 
 <br />
 
-<img src="https://streak-stats.demolab.com?user=TharikMusthak&hide_border=true&background=00000000&ring=0F766E&fire=14B8A6&currStreakLabel=0F766E&sideLabels=64748B&dates=64748B&currStreakNum=334155&sideNums=334155" alt="GitHub contribution streak" />
+[![Explore Repositories](https://img.shields.io/badge/Explore_My_Repositories-0F766E?style=for-the-badge&logo=github&logoColor=white)](https://github.com/TharikMusthak?tab=repositories)
 
 </div>
 
