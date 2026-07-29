@@ -59,8 +59,8 @@ I am a **Full-Stack Developer** focused on building useful, maintainable, and vi
 <a href="https://hinttechnologies.com">
   <img width="48%" src="./assets/hint-technologies.svg" alt="Hint Technologies live website" />
 </a>
-<a href="https://github.com/TharikMusthak/IT3DWebsite">
-  <img width="48%" src="./assets/it3d-website.svg" alt="IT3D Website project" />
+<a href="https://it-3-d-website.vercel.app/">
+  <img width="48%" src="./assets/it3d-website.svg" alt="IT3D live Vercel website" />
 </a>
 
 <br />
