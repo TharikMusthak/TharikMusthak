@@ -1,0 +1,47 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="380" viewBox="0 0 1200 380" role="img" aria-labelledby="title desc">
+  <title id="title">Tharik Musthak developer snapshot</title>
+  <desc id="desc">Frontend, backend, database, and product development focus areas</desc>
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#0B1220"/>
+      <stop offset=".55" stop-color="#102A2B"/>
+      <stop offset="1" stop-color="#123A36"/>
+    </linearGradient>
+    <linearGradient id="line" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#14B8A6"/>
+      <stop offset="1" stop-color="#A3E635"/>
+    </linearGradient>
+    <filter id="glow"><feGaussianBlur stdDeviation="12"/></filter>
+  </defs>
+  <rect x="1" y="1" width="1198" height="378" rx="30" fill="url(#bg)" stroke="#1F6F68" stroke-width="2"/>
+  <circle cx="1060" cy="70" r="105" fill="#14B8A6" opacity=".10" filter="url(#glow)"/>
+  <circle cx="110" cy="330" r="90" fill="#A3E635" opacity=".06" filter="url(#glow)"/>
+  <text x="54" y="70" font-family="Arial, sans-serif" font-size="32" font-weight="700" fill="#FFFFFF">Developer Snapshot</text>
+  <rect x="54" y="90" width="1092" height="4" rx="2" fill="url(#line)" opacity=".8"/>
+
+  <rect x="54" y="128" width="332" height="188" rx="22" fill="#111E2A" stroke="#245A58"/>
+  <circle cx="94" cy="168" r="18" fill="#14B8A6" opacity=".20"/>
+  <text x="94" y="175" text-anchor="middle" font-family="Arial, sans-serif" font-size="20" font-weight="700" fill="#5EEAD4">01</text>
+  <text x="126" y="176" font-family="Arial, sans-serif" font-size="22" font-weight="700" fill="#FFFFFF">Frontend</text>
+  <text x="84" y="222" font-family="Arial, sans-serif" font-size="17" fill="#C6D7D5">React · Vite · JavaScript</text>
+  <text x="84" y="252" font-family="Arial, sans-serif" font-size="17" fill="#C6D7D5">HTML5 · CSS3 · Responsive UI</text>
+  <text x="84" y="286" font-family="Arial, sans-serif" font-size="14" fill="#5EEAD4">CLEAN AND INTERACTIVE</text>
+
+  <rect x="434" y="128" width="332" height="188" rx="22" fill="#111E2A" stroke="#245A58"/>
+  <circle cx="474" cy="168" r="18" fill="#14B8A6" opacity=".20"/>
+  <text x="474" y="175" text-anchor="middle" font-family="Arial, sans-serif" font-size="20" font-weight="700" fill="#5EEAD4">02</text>
+  <text x="506" y="176" font-family="Arial, sans-serif" font-size="22" font-weight="700" fill="#FFFFFF">Backend</text>
+  <text x="464" y="222" font-family="Arial, sans-serif" font-size="17" fill="#C6D7D5">Node.js · Express · PHP</text>
+  <text x="464" y="252" font-family="Arial, sans-serif" font-size="17" fill="#C6D7D5">Laravel · REST APIs · Auth</text>
+  <text x="464" y="286" font-family="Arial, sans-serif" font-size="14" fill="#5EEAD4">SECURE AND MAINTAINABLE</text>
+
+  <rect x="814" y="128" width="332" height="188" rx="22" fill="#111E2A" stroke="#245A58"/>
+  <circle cx="854" cy="168" r="18" fill="#14B8A6" opacity=".20"/>
+  <text x="854" y="175" text-anchor="middle" font-family="Arial, sans-serif" font-size="20" font-weight="700" fill="#5EEAD4">03</text>
+  <text x="886" y="176" font-family="Arial, sans-serif" font-size="22" font-weight="700" fill="#FFFFFF">Solutions</text>
+  <text x="844" y="222" font-family="Arial, sans-serif" font-size="17" fill="#C6D7D5">MySQL · CMS · Admin Panels</text>
+  <text x="844" y="252" font-family="Arial, sans-serif" font-size="17" fill="#C6D7D5">Business Websites · Automation</text>
+  <text x="844" y="286" font-family="Arial, sans-serif" font-size="14" fill="#5EEAD4">PRACTICAL DIGITAL PRODUCTS</text>
+
+  <text x="600" y="350" text-anchor="middle" font-family="Arial, sans-serif" font-size="16" fill="#91A9A6">Building useful products from interface to database.</text>
+</svg>
