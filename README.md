@@ -56,9 +56,15 @@ I am a **Freelance Full-Stack Developer** focused on building useful, maintainab
 
 <div align="center">
 
+<a href="https://github.com/TharikMusthak/hint">
+  <img width="48%" src="./assets/full-stack-website.svg" alt="Full-Stack Website project" />
+</a>
 <a href="https://it-3-d-website.vercel.app/">
   <img width="48%" src="./assets/it3d-website.svg" alt="IT3D live Vercel website" />
 </a>
+
+<br />
+
 <a href="https://github.com/TharikMusthak/Bike_Service_Application_Tharik">
   <img width="48%" src="./assets/bike-service.svg" alt="Bike Service Application project" />
 </a>
