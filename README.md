@@ -23,25 +23,26 @@ I am a **Freelance Full-Stack Developer** focused on building useful, maintainab
 - 🌱 Exploring AWS, application scalability, digital marketing, and modern 3D web experiences
 - 🤝 Available for freelance projects and developer collaborations
 
-## 🛠️ Tech Stack
+<h2 align="center">🛠️ Tech Stack</h2>
 
-### Frontend
+<div align="center">
 
+<h3>Frontend</h3>
 <p>
   <img src="https://skillicons.dev/icons?i=html,css,js,react,vite" alt="Frontend technologies" />
 </p>
 
-### Backend & Database
-
+<h3>Backend &amp; Database</h3>
 <p>
   <img src="https://skillicons.dev/icons?i=nodejs,express,php,laravel,mysql" alt="Backend and database technologies" />
 </p>
 
-### Tools & Platforms
-
+<h3>Tools &amp; Platforms</h3>
 <p>
   <img src="https://skillicons.dev/icons?i=git,github,vscode,postman,aws" alt="Development tools and platforms" />
 </p>
+
+</div>
 
 ## 🚀 What I Build
 
