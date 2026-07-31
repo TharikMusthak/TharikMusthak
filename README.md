@@ -1,12 +1,12 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0F766E,100:14B8A6&height=200&section=header&text=Tharik%20Musthak&fontSize=42&fontColor=FFFFFF&animation=fadeIn&fontAlignY=35&desc=Full-Stack%20Developer%20%7C%20Web%20Solutions%20Builder&descAlignY=56&descSize=18" alt="Tharik Musthak profile header" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0F766E,100:14B8A6&height=200&section=header&text=Tharik%20Musthak&fontSize=42&fontColor=FFFFFF&animation=fadeIn&fontAlignY=35&desc=Freelance%20Full-Stack%20Developer%20%7C%20Web%20Solutions%20Builder&descAlignY=56&descSize=18" alt="Tharik Musthak profile header" />
 
-<img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=22&pause=1000&color=0F766E&center=true&vCenter=true&width=720&lines=React+%7C+Node.js+%7C+PHP+%7C+Laravel;Building+clean+and+scalable+web+solutions;Turning+business+ideas+into+digital+products" alt="Typing introduction" />
+<img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=22&pause=1000&color=0F766E&center=true&vCenter=true&width=720&lines=React+%7C+Node.js+%7C+PHP+%7C+Laravel;Freelance+Full-Stack+Web+Developer;Building+clean+and+scalable+web+solutions" alt="Typing introduction" />
 
 <br />
 
-[![Website](https://img.shields.io/badge/Website-hinttechnologies.com-0F766E?style=for-the-badge&logo=googlechrome&logoColor=white)](https://hinttechnologies.com)
+![Freelance](https://img.shields.io/badge/Available_for-Freelance-0F766E?style=for-the-badge&logo=freelancer&logoColor=white)
 [![GitHub](https://img.shields.io/badge/GitHub-TharikMusthak-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/TharikMusthak)
 ![Profile Views](https://komarev.com/ghpvc/?username=TharikMusthak&style=for-the-badge&color=14B8A6)
 
@@ -14,14 +14,14 @@
 
 ## 👨‍💻 About Me
 
-I am a **Full-Stack Developer** focused on building useful, maintainable, and visually clean web products. I enjoy turning business requirements into websites, CMS platforms, admin dashboards, APIs, and workflow-driven applications.
+I am a **Freelance Full-Stack Developer** focused on building useful, maintainable, and visually clean web products. I enjoy turning ideas and client requirements into websites, CMS platforms, admin dashboards, APIs, and workflow-driven applications.
 
-- 🔭 Building business websites, e-commerce admin panels, and custom CMS solutions
+- 🔭 Building client-ready websites, e-commerce admin panels, and custom CMS solutions
 - ⚙️ Developing backends with **Node.js, Express, PHP, and Laravel**
 - 🎨 Creating responsive frontends with **React, Vite, JavaScript, HTML, and CSS**
 - 🗄️ Designing and working with **MySQL** databases and REST APIs
 - 🌱 Exploring AWS, application scalability, digital marketing, and modern 3D web experiences
-- 🤝 Open to collaborating on practical web applications and business automation projects
+- 🤝 Available for freelance projects and developer collaborations
 
 ## 🛠️ Tech Stack
 
@@ -45,7 +45,7 @@ I am a **Full-Stack Developer** focused on building useful, maintainable, and vi
 
 ## 🚀 What I Build
 
-- Business and company websites
+- Freelance websites and custom web applications
 - CMS and admin dashboard applications
 - REST API integrations and authentication systems
 - PHP and Laravel web applications
@@ -56,15 +56,9 @@ I am a **Full-Stack Developer** focused on building useful, maintainable, and vi
 
 <div align="center">
 
-<a href="https://hinttechnologies.com">
-  <img width="48%" src="./assets/hint-technologies.svg" alt="Hint Technologies live website" />
-</a>
 <a href="https://it-3-d-website.vercel.app/">
   <img width="48%" src="./assets/it3d-website.svg" alt="IT3D live Vercel website" />
 </a>
-
-<br />
-
 <a href="https://github.com/TharikMusthak/Bike_Service_Application_Tharik">
   <img width="48%" src="./assets/bike-service.svg" alt="Bike Service Application project" />
 </a>
@@ -85,8 +79,8 @@ I am a **Full-Stack Developer** focused on building useful, maintainable, and vi
 
 ## 🤝 Let's Connect
 
-- 🌐 Portfolio and company website: [hinttechnologies.com](https://hinttechnologies.com)
-- 💬 Ask me about **React, Node.js, PHP, Laravel, MySQL, CMS platforms, REST APIs, and business websites**
+- 💼 Available for freelance website and web application projects
+- 💬 Ask me about **React, Node.js, PHP, Laravel, MySQL, CMS platforms, REST APIs, and modern web development**
 
 <div align="center">
 
