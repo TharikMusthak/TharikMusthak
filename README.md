@@ -57,7 +57,7 @@ I am a **Freelance Full-Stack Developer** focused on building useful, maintainab
 
 <div align="center">
 
-<a href="https://github.com/TharikMusthak/hint">
+<a href="https://hinttechnologies.com">
   <img width="48%" src="./assets/full-stack-website.svg" alt="Full-Stack Website project" />
 </a>
 <a href="https://it-3-d-website.vercel.app/">
